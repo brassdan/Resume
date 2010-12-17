@@ -92,12 +92,12 @@ I am a solutions architect and technology manager with
 
 ## Education
 
-Multimedia, M.A.  
+### Multimedia, M.A.  
 California State University, East Bay
 
-Computer Engineering, M.S.E.
+### Computer Engineering, M.S.E.
 University of Michigan, Ann Arbor
 
-Industrial and Operations Engineering, B.S.E.
+### Industrial and Operations Engineering, B.S.E.
 University of Michigan, Ann Arbor
 
