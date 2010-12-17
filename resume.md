@@ -1,93 +1,103 @@
-# Nathaniel Welch
+# Daniel Weinstein
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+ * <dan@townalive.com>
+ * <http://townalive.com>
+ * 415-409-TOWN
 
-## Background
+## Qualifications
 
-I am a current student of Computer Science at Cal Poly with an interest in
-communication and design. I am a big believer in experimenting with new things
-to expand my knowledge both professionally and recreationally. I strive to be a
-quick learner and both a competent leader and capable worker. I am an Eagle
-Scout and was an active officer of the Cal Poly Linux Users Group for three
-years. I was awarded Cal Poly's Residence Hall Council member of the year for
-both 2006 and 2007.
+I am a solutions architect and technology manager with
 
-## Education
+ * Software development experience building enterprise software (Tesseract, icPlanet), software development tools (Synon, IBM), and consumer web commerce software (Food.com, Mixonic, MarketLive). 
+ * Experience managing IT infrastructure, software development, and professional services organizations.
+ * Hands-on design and development experience for web (Rails), desktop (Flex, Flash, Pygame), and mobile applications (iPhone, Android). 
+ * IT operational experience for high-traffic, scalable Internet applications and infrastructures at MarketLive and Mixonic.
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
-
-## Systems Proficiency
-
-**Programming Languages**
-
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
-
- > Experience with: F#, Python, C++, MongoDB
-
-**Software**
-
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
 
 ## Experience
 
-### iFixit.com, San Luis Obispo CA
+### Head of Technology
 
-#### Software Developer
+#### Mixonic, San Francisco, CA
 
-##### April 2009 - Present
+##### 2007 - Present
 
-I wear a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I write code mainly in PHP and Bash, and almost all of our servers are on Amazon's EC2 Service. 
+ * Took total responsibility for product development, quality assurance, information technology, and software engineering.
+ * Implemented VMware-based virtualization and IT outsourcing initiatives that significantly reduced operating expenses while improving service quality.
+ * Led the transition of this web-based custom media company to become a Web 2.0 media fulfillment platform for use by business partners.
+ * Developed an IT Strategy, defined new Agile/Lean processes, and led IT and Product initiatives to implement this strategy. 
+ * Increased productivity of my teams while reducing vendor costs by 50%.
+ * Platform: VMWare, Red Hat Linux/CentOS, Grails, JBoss, Tomcat, Apache, ActiveMQ, Nagios/Cacti, REST and SOAP web services, PostgreSQL.
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
 
-### Adobe Systems Incorporated, San Francisco CA
+### Director of Engineering 
 
-#### Dreamweaver QE Intern
+#### MarketLive, Petaluma, CA
 
-##### Summer 2007 and 2008
+##### 2004 - 2005
 
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case Application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4.
+ * Managed a fifty-person Engineering Services organization that built over thirty scalable e-commerce sites.
+ * Led projects that implemented reusable components, processes, and techniques for use in Professional Services offerings.
+ * Designed and implemented an enterprise-wide Intranet as well as configuration, build, release, and change management processes.
+ * Managed local, remote, and offshore engineering teams working together to rapidly customize and integrate sites.
+ * Presented the needs of Engineering Services to the Product team such as escalations, infrastructure requirements, and architectural requirements. 
+ * Platform: Spring, Hibernate, Oracle, SQL Server.
 
-<!--
-### California Polytechnic State University, San Luis Obispo CA
 
-#### Computer Science Lab Monitor
+### IS Manager
 
-##### Sept. 2006 to June 2007
+#### PDBI, Concord, CA
 
- * Maintained printers and computers for seven labs.
+##### 2003 - 2004
 
-### Sonoma County Information Systems Department, Santa Rosa CA
+ * Reported directly to the CIO while taking management responsibility for business analysis, project management, vendor management, and QA.
+ * Enhanced Payor systems for HIPAA transactions and security; systems for Claims, Eligibility and Enrollment, Provider Compensation, Provider Relations, Customer Service; and web portals for partners and customers.
+ * Implemented enterprise web applications based on open source LAMP technologies for benefits lookup, provider lookup, and eligibility verification.
 
-#### Intern
 
-##### June 2005 to Sept. 2005
- 
- * Built and maintained three separate websites, one dealing with unions, one system uptime web application, and one error reporting web form.
--->
+#### Vice President, Engineering
 
-### BSA Camp Oljato, Lakeshore CA
+#### Food.com, San Francisco, CA
 
-#### Nature Director
+##### 2001 - 2002
 
-##### Summer 2006
+ * Reported directly to the CEO while taking for Engineering, QA, Production Support, Database, Data Warehousing, and Project Management functions.
+ * Created restaurant ordering SaaS products that automate processes that integrate with buyer products using web services. 
+ * Platform: Linux, Solaris, JBoss, Tomcat, Struts, Log4j, XML, JMS, Oracle, , Brio, MapQuest, Dialogic, Accrue, and SOAP/XML-RPC. 
+ * Implemented a highly effective software development process that combined elements of an Agile process (Scrum) with RUP and CMM. 
 
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks.
- * Updated and revised the Forest Management Plan and organized conservation projects throughout camp.
 
-#### Camp Counselor
+#### Director, Engineering
 
-##### Summer 2002, 2003 and 2004
+#### icPlanet, San Rafael, CA
 
- * Took care of children ages ten to eighteen and responsible for creating and planning daily schedules for my classes.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others.
- * Dealt with their scoutmasters, which were usually older adults around the age of 40 to 60
- * Dealt with medical emergencies ranging from altitude sickness and dehydration to broken ribs.
+##### 2000
+
+ * Implemented B2B applications for buyer-side catalog, sales, service, and administration of HR and Recruiter procurement processes that delivered an integrated buyer-side catalog for co-branding by customers. 
+ * Implemented company-wide processes to accelerate product definition and development using methods and techniques customized from the Rational Unified Process (RUP), Extreme Programming (XP), and Scrum. 
+
+
+#### Partner
+
+#### CSC, San Bruno, CA
+
+##### 1992 - 2000
+
+ * Successfully delivered a series of client engagements in technical and technical management roles.
+ * Was promoted into the Partnership due to superior results on numerous engagements.
+ * Earned technical excellence and team player awards at one of the world's foremost technology companies.
+ * Clients included Sun Microsystems, SGI, HP, Kaiser-Permanente, PG&E, Williams-Sonoma, Autodesk, Raytheon, CSAA
+ * Mentored and managed regional technical staff.
+
+
+## Education
+
+Multimedia, M.A.  
+California State University, East Bay
+
+Computer Engineering, M.S.E.
+University of Michigan, Ann Arbor
+
+Industrial and Operations Engineering, B.S.E.
+University of Michigan, Ann Arbor
 
