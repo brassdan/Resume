@@ -1,8 +1,6 @@
 # Resume
 
-This started as just a simple place to store a markdown format of my resume,
-and now it's turned into an easy way to host your resume using [sinatra][s],
-[github-pages][gp] or [Heroku][h].
+This is a place to store a markdown format of my resume which gets published and hosted to host your resume using [sinatra][s], [github-pages][gp] or [Heroku][h].
 
 [gp]: http://pages.github.com/
 [h]: http://heroku.com/
@@ -29,19 +27,10 @@ and now it's turned into an easy way to host your resume using [sinatra][s],
 [gm]: http://github.com/github/markup
 [md]: http://en.wikipedia.org/wiki/Markdown
 
-## Other cool stuff
-
-My idea is pretty simple, I just wanted a plain text resume and an easy way to
-host it. [Dan Mayer][dm] took this idea and ran with it. He made a lot of
-really cool changes, and in although I love simplicity, I really love how much
-he abstracted out of my original design. You should really check out his
-resume, and some of the forks of it.
-
-[dm]: http://github.com/danmayer/Resume
 
 ## License
 
-resume.md is property of Nathaniel "Nat" Welch. You are welcome to use it as a
+resume.md is property of Daniel Weinstein. You are welcome to use it as a
 base structure for your resume, but don't forget, you are not him.
 
 The rest of the code is licensed CC-GPL. Remember sharing is caring.
