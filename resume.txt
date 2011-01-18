@@ -6,15 +6,28 @@
 
 ## Qualifications
 
-I am a solutions architect and technology manager with
+I am a technology manager and solutions architect with
 
  * Software development experience building enterprise software (Tesseract, icPlanet), software development tools (Synon, IBM), and consumer web commerce software (Food.com, Mixonic, MarketLive). 
- * Experience managing IT infrastructure, software development, and professional services organizations.
- * Hands-on design and development experience for web (Rails), desktop (Flex, Flash, Pygame), and mobile applications (iPhone, Android). 
+ * Experience managing IT infrastructure, software development, QA, and professional services organizations.
+ * Hands-on design and development experience for web (Rails, PHP, Java), desktop (Flex, Flash, Pygame), and mobile applications (iPhone, Android). 
  * IT operational experience for high-traffic, scalable Internet applications and infrastructures at MarketLive and Mixonic.
+ * Experience hiring and managing engineering teams from five to fifty at Mixonic, Food.com, and MarketLive.
 
 
 ## Experience
+
+### Founder
+
+#### Town Alive
+
+##### 2010 - Present
+
+ * Built a series of games and game engines in technologies such as Flash / ActionScript, iOS / Objective C, and Android / Titanium Mobile JavaScript.
+ * Designed and implemented an iPhone application (Fescue Rescue) for teaching habitat restoration and sustainability (iPhone platform).
+ * Collaboratively developed a picture matching game (Hab Fab) that taught the identification of plant families (Android platform).
+ * Created a Flash / ActionScript game where the player acts as the Fed as they bail-out the financial institutions, companies and then the States to save the US Economy.
+ * Built a game editor in Ruby on Rails that supports the configuration of game and quest data and publishing that data into a mobile game engine.
 
 ### Head of Technology
 
@@ -27,7 +40,7 @@ I am a solutions architect and technology manager with
  * Led the transition of this web-based custom media company to become a Web 2.0 media fulfillment platform for use by business partners.
  * Developed an IT Strategy, defined new Agile/Lean processes, and led IT and Product initiatives to implement this strategy. 
  * Increased productivity of my teams while reducing vendor costs by 50%.
- * Platform: VMWare, Red Hat Linux/CentOS, Grails, JBoss, Tomcat, Apache, ActiveMQ, Nagios/Cacti, REST and SOAP web services, PostgreSQL.
+ * Platform: Java, VMWare, Red Hat Linux/CentOS, Grails, JBoss, Tomcat, Apache, ActiveMQ, Nagios/Cacti, REST and SOAP web services, PostgreSQL.
 
 
 ### Director of Engineering 
