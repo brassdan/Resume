@@ -76,7 +76,7 @@ I am a technology manager and solutions architect with
 
  * Reported directly to the CEO while taking for Engineering, QA, Production Support, Database, Data Warehousing, and Project Management functions.
  * Created restaurant ordering SaaS products that automate processes that integrate with buyer products using web services. 
- * Platform: Linux, Solaris, JBoss, Tomcat, Struts, Log4j, XML, JMS, Oracle, , Brio, MapQuest, Dialogic, Accrue, and SOAP/XML-RPC. 
+ * Platform: Linux, Solaris, JBoss, Tomcat, Struts, Log4j, XML, JMS, Oracle, Brio, MapQuest, Dialogic, Accrue, and SOAP/XML-RPC. 
  * Implemented a highly effective software development process that combined elements of an Agile process (Scrum) with RUP and CMM. 
 
 
